@@ -1,2 +1,2 @@
 # dev_game
-Developmental RPG Engine/Game
+Developmental RPG Engine/Game, Basic game wanted to be created with advanced features.
