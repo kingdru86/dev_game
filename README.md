@@ -1,11 +1,12 @@
 # dev_game
 Developmental RPG Engine/Game, Basic game wanted to be created with advanced features.
 
-- - - - COMPLETED - - - -
+//// COMPLETED ////
+
 //LOGIN//
 	- Login, register, reset, and logout scripts completed.
 
-- - - - INCOMPLETE - - - -
+//// INCOMPLETE ////
 
 //PLAYER//
 	- Multitude of stats that get taken into account before fights
